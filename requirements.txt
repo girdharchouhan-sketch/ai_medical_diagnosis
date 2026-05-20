@@ -1,0 +1,13 @@
+# requirements.txt
+
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+matplotlib==3.8.4
+PyQt5==5.15.10
+pandas==2.2.2
+scikit-learn==1.4.2
+Pillow==10.3.0
+scipy==1.13.0
+h5py==3.11.0

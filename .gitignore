@@ -1,0 +1,18 @@
+# datasets
+dataset/
+data/
+
+# models
+models/
+*.h5
+*.pkl
+*.pt
+*.keras
+
+# virtual env
+venv/
+.venv/
+
+# cache
+__pycache__/
+*.pyc
