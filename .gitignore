@@ -3,7 +3,7 @@ dataset/
 data/
 
 # models
-models/
+
 *.h5
 *.pkl
 *.pt
